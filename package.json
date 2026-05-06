@@ -1,0 +1,21 @@
+{
+  "name": "alex-hou-2024-test-7",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0 -p 8080",
+    "build": "next build",
+    "start": "next start -H 0.0.0.0 -p 8080"
+  },
+  "dependencies": {
+    "next": "15.5.15",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.17",
+    "@types/react": "19.0.12",
+    "@types/react-dom": "19.0.5",
+    "typescript": "5.8.3"
+  }
+}
